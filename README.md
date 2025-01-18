@@ -33,14 +33,14 @@ I'm an enthusiastic tech professional, currently advancing my career through IT 
 
 ## **Experience**
 
-### **Représentante Commerciale**  
-*Benderski Graphic Design Studio | Remote, Uruguay*  
+### **Commercial Representative**  
+*Benderski Graphic Design Studio | Freelance Remote, Uruguay*  
 **February 2023 – August 2024**  
 - Contributed to planning, scheduling, and coordination of various project tasks and deliverables.  
 - Liaised closely with project managers to develop project plans and timelines.  
 - Delivered integral support in preparation of project documentation, including status reports and summaries.  
 
-### **Assistante Commerciale et Administrative**  
+### **Commercial and Administrative Assistant*  
 *SMT AFRICA | Brussels*  
 **May 2021 – June 2023**  
 - Reviewed and negotiated client and supplier contracts through to closure.  
@@ -71,9 +71,9 @@ Institut Supérieur de Formation Continue Etterbeek (ISFCE), Brussels
 
 ## **Certifications**
 - Customer Success Manager  
-- AWS Cloud Practitioner  
-- GDPR Foundation  
-- ISO 21502 Project Management Foundation  
+- AWS Cloud Practitioner (ongoing)  
+- GDPR Foundation  (ongoing)
+- ISO 21502 Project Management Foundation  (ongoing)
 - Python for Data Science (edX)  
 
 ---
@@ -85,7 +85,7 @@ Institut Supérieur de Formation Continue Etterbeek (ISFCE), Brussels
 
 ---
 
-## **Internships**
+## **Internships During My Marketing Bachelor Degree**
 
 ### **Customized Chatbot Developer**  
 *Faqbot (Startup) | Brussels*  
@@ -111,10 +111,10 @@ Institut Supérieur de Formation Continue Etterbeek (ISFCE), Brussels
 ## **Skills**
 
 ### **Mastered Tools:**
-- Microsoft Excel, Microsoft PowerPoint, Zendesk, Salesforce, Google Ads, SQL, Python, SAP, Microsoft Office  
+- Microsoft Excel, Microsoft PowerPoint, Zendesk, Salesforce, Google Ads, SQL, Python, GitHub, Slacktime
 
 ### **In Progress:**
-- Jira, Trello, AWS Cloud Practitioner tools  
+- Jira, Trello, AWS Cloud Practitioner tools, Microsoft Project 
 
 ---
 
