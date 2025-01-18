@@ -15,7 +15,7 @@
 ---
 
 ## **Professional Summary**
-Efficient and well-organized Project Manager with hands-on experience contributing to project planning, scheduling, and coordination. Strong grasp of project lifecycles and Agile methodologies through academic projects, internships, and professional experience. Open to part-time, full-time, and contract opportunities.
+I'm an enthusiastic tech professional, currently advancing my career through IT Project Management training, with a focus on AWS Cloud Computing, ISO 27001, and Cybersecurity. I'm eager to leverage these skills to drive innovation and contribute to projects that make a real-world impact.
 
 ---
 
