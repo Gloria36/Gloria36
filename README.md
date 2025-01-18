@@ -10,7 +10,7 @@
 ## **Languages**
 - French (Fluent)  
 - English (Fluent)  
-- Dutch (Fluent)  
+- Dutch (Basic)  
 
 ---
 
